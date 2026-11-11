@@ -1,0 +1,2 @@
+carconnectivity==0.11.11
+carconnectivity-connector-vw-eu-data-act==0.3.4
