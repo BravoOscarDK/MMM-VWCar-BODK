@@ -8,3 +8,13 @@ private/
 *.netrc
 *token*.json
 *cache*.json
+
+# Local agent instructions and editor settings
+AGENTS.md
+AGENTS.override.md
+CLAUDE.md
+.codex/
+.agents/
+.claude/
+.vscode/
+.idea/
